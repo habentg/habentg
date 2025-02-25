@@ -1,22 +1,24 @@
-# Hi there, I'm Abe Hanoka 👋
+# 👋 Hi there, I'm Haben Tesfamariam 
 
-I'm a passionate web app developer who loves building things for the web. I utilize modern web technologies to create websites that look great, feel fantastic, and function correctly.
+I’m a junior software engineer with a knack for solving problems and a passion for building web applications. My journey started with C and C++, but I quickly adapted to Python and JavaScript, diving deep into full-stack development. I utilize modern web technologies to create websites that look great, feel fantastic, and function correctly. I enjoy bringing ideas to life using Django for the backend and React for the frontend.
 
-## About Me
+### ⚙️ Tech Stack & Skills
+- **Frontend**: React, JavaScript, HTML, CSS, Bootstrap
+- **Backend**: Django, Django REST Framework, Node.js
+- **DevOps**: Docker, Docker Compose, Nginx, Redis
+- **Databases**: PostgreSQL, SQLite, MariaDB
+- **Security & Performance**: OAuth 2.0, JWT, 2FA, Rate-Limiting, HTTPS/WSS
+- **Other** Cool Stuff: WebSockets, SPA Architecture, Multi-Container Setup
 
-I'm a self-taught and self-driven software developer skilled at solving problems and finding or creating the best technical solutions. I'm always looking for ways to improve processes and efficiency. In my previous roles, I've demonstrated resourcefulness, creativity, and the ability to work well on cross-functional teams.
+## 🔥 What I’m Working On
+I’m currently leveling up my React and Node.js skills while experimenting with containerized environments using Docker and Kubernetes. I’m also diving into the world of cybersecurity and infrastructure—because who doesn’t love a good challenge?
 
-### Technologies I've Been Working With Recently
-
-- JavaScript
-- Django
-- React
-- Docker
-- C && C++
-- HTML
-- CSS
-
-## Projects
+## 🎯 Goals
+- Master React and Next.js for frontend development
+- Get comfortable with Kubernetes and container orchestration
+- Explore advanced cybersecurity techniques
+  
+<!-- ## Projects
 
 Here are some of the projects I've been working on:
 
@@ -36,22 +38,25 @@ A solution to get reminded about recurring Hebrew calendar-based events like bir
 
 A Discord bot that provides solutions to LeetCode problems in multiple programming languages.
 
-*Technologies:* Python, Discord.py, Railway.app
+*Technologies:* Python, Discord.py, Railway.app -->
+
+## 📈 GitHub Stats
+<div align=center>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=habentg&theme=shadow-purple"/>
+  </a>
+</div>
+<div align=center>
+  <img src="https://github-readme-stats.vercel.app/api?username=habentg&count_private=true&show_icons=true&theme=chartreuse-dark&hide=contribs"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habentg&layout=compact&theme=vision-friendly-dark"/>
+  </a>
+</div>
+
 
 ## Get in Touch
 
 My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
 
-[Mail me](mailto:your-email@example.com)
+[Mail me](mailto:habentg022@gmail.com)
 
-## Recent Posts
-
-Here are some of my recent blog posts:
-
-- [Use Pre Commit To Include OpenAPI Schema Under Version Control](https://habet.dev/posts/use-pre-commit-to-include-openapi-schema-under-version-control/) - Apr 17, 2024
-- [How To Install Python 3 on Windows 11](https://habet.dev/posts/how-to-install-python-3-on-windows-11/) - Jul 18, 2022
-- [How to Install Nextcloud](https://habet.dev/posts/how-to-install-nextcloud/) - Jan 12, 2022
-
-*© 2024 All rights reserved*
-
-*Made with ❤ and Hugo Profile*
