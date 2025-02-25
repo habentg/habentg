@@ -1,8 +1,13 @@
-# 👋 Hi there, I'm Haben Tesfamariam 
-
+# 👋 Hello, I'm Haben Tesfamariam 
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Software%20developer;Cloud%20And%20DevOps%20Enthusiast;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 I’m a junior software engineer with a knack for solving problems and a passion for building web applications. My journey started with C and C++, but I quickly adapted to Python and JavaScript, diving deep into full-stack development. I utilize modern web technologies to create websites that look great, feel fantastic, and function correctly. I enjoy bringing ideas to life using Django for the backend and React for the frontend.
 
-### ⚙️ Tech Stack & Skills
+
+## ⚙️ Tech Stack & Skills
 - **Frontend**: React, JavaScript, HTML, CSS, Bootstrap
 - **Backend**: Django, Django REST Framework, Node.js
 - **DevOps**: Docker, Docker Compose, Nginx, Redis
@@ -40,16 +45,16 @@ A Discord bot that provides solutions to LeetCode problems in multiple programmi
 
 *Technologies:* Python, Discord.py, Railway.app -->
 
-  <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=habentg)](https://git.io/streak-stats) -->
+
 ## 📈 GitHub Stats
 <div align=center>
-    <img src="https://streak-stats.demolab.com/?user=habentg&theme=shadow-purple"/>
   <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=habentg&theme=dark"/>
   </a>
 </div>
-</div>
+
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=habentg&count_private=true&show_icons=true&theme=chartreuse-dark&hide=contribs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=habentg&count_private=true&show_icons=true&theme=dark&hide=contribs"/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habentg&layout=compact&theme=vision-friendly-dark"/>
   </a>
@@ -57,8 +62,5 @@ A Discord bot that provides solutions to LeetCode problems in multiple programmi
 
 
 ## Get in Touch
-
-My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
-
-[Mail me](mailto:habentg022@gmail.com)
+Reach out to me on [LinkdIn](https://www.linkedin.com/in/habentesfamariamgaim/) or drop me an email at [habentg022@gmail.com](mailto:habentg022@gmail.com)
 
