@@ -40,11 +40,13 @@ A Discord bot that provides solutions to LeetCode problems in multiple programmi
 
 *Technologies:* Python, Discord.py, Railway.app -->
 
+  <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=habentg)](https://git.io/streak-stats) -->
 ## 📈 GitHub Stats
 <div align=center>
+    <img src="https://streak-stats.demolab.com/?user=habentg&theme=shadow-purple"/>
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=habentg&theme=shadow-purple"/>
   </a>
+</div>
 </div>
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=habentg&count_private=true&show_icons=true&theme=chartreuse-dark&hide=contribs"/>
